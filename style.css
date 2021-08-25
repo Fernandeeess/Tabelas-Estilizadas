@@ -1,0 +1,24 @@
+table{
+    width: 600px;
+    border-collapse:separate;
+}
+th,td{
+    padding: 10px;
+    text-align: left;
+}
+tr{
+    border-right:rgb(19, 17, 17);
+}
+th{
+    
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    text-transform: uppercase;
+}
+.alternado {
+    background: rgb(189, 189, 189);
+}
+tr:hover{
+    background:rgb(187, 249, 253);
+    
+}
